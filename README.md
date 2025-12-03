@@ -3,8 +3,7 @@
 ```plaintext
 DFA-Minimization-Research/
 ├── .gitignore               
-├── README.md                
-├── LICENSE                  
+├── README.md                                
 ├── requirements.txt        
 │
 ├── src/                     
