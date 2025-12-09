@@ -1,0 +1,16 @@
+{
+  "dfa_minimal": 
+    {
+      "num_states": 5,
+      "alphabet_size": 2,
+      "start_state": 0,
+      "accepting_states": [1, 2, 4],
+      "transitions": [
+        [0, 0],
+        [0, 1],
+        [0, 0],
+        [2, 3],
+        [0, 0]
+      ]
+    }
+}
